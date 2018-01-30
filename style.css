@@ -1,0 +1,146 @@
+body {
+  width: 860px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  font-family: sans-serif;
+}
+header {
+  margin: 20px 0 20px 0;
+}
+nav {
+  background-color: black;
+  padding: 10px;
+  font-size: 20px;
+}
+nav a {
+  text-decoration: none;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+nav a+a {
+  border-left: 1px solid white;
+  color: #FFFFFF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* padding-left: 25px; */
+  /* padding-right: 15px; */
+}
+/* .title {
+  text-align: left;
+} */
+hr {
+  border-color: #CBD4DF;
+}
+h1 {
+  color: #CE4A3C;
+  margin: 0 10px 0 10px;
+}
+h2 {
+  color: #B2B2B2;
+}
+h1, h4 {
+    display: inline;
+}
+h4 {
+ color: #888888;
+}
+a {
+  color: #CE4A3C;
+}
+/* aside a:link {
+  text-decoration: none;
+  text-align: right;
+  margin-left: 100px;
+  font-weight: bold;
+  /* margin-bottom: 20px;
+  } */
+/* nav {
+  margin: 0 auto;
+  text-align: center;
+} */
+nav a {
+  color: white;
+}
+article {
+  width: 600px;
+  background-size: cover;
+  /* margin-bottom: 20px; */
+}
+article a:link {
+  text-decoration: none;
+  text-align: right;
+  margin-left: 500px;
+  font-weight: bold;
+  /* margin-bottom: 20px; */
+}
+article img {
+  width: 600px;
+}
+article p {
+  color: #919191;
+}
+/* article a {
+text-align: right;
+} */
+/* article a {
+  text-align: right;
+} */
+.firstcharacter {
+  color: #B2B2B2;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+aside img {
+  width: 200px;
+}
+aside {
+  position: relative;
+  float: right;
+  width: 200px;
+  top: 55px;
+  /* display:inline-block; */
+}
+aside p {
+  color: #C4C4C4;
+  font-size: 14px;
+}
+aside ul {
+  text-align: left;
+  font-size: 14px;
+}
+aside a:link {
+  text-decoration: none;
+  text-align: right;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+#link_aside {
+  /* display: inline-block; */
+  text-decoration: none;
+  /* float: right; */
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 0px;
+  text-align: right;
+}
+  /*
+  margin-left: 500px;
+  font-weight: bold; */
+  /* margin-bottom: 20px;
+}
+/* aside a {
+  text-align: right;
+} */
+footer {
+  display: block;
+  margin: 20px 20px 20px 0;
+  text-align: left;
+}
+/* #links {
+  display: block;
+} */
